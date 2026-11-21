@@ -18,15 +18,14 @@ I enjoy building projects, experimenting with technology and developing my progr
 
 ## Projects
 
-### 🟢 Completed
+###  Completed
 
 - **Task Manager** — Desktop application developed with Python and Tkinter to organize and manage daily tasks.
-- **Password Manager** — Python application for managing login information and generating passwords.
+- **Logins Manager** — Python application for managing login information and generating passwords.
 
-### 🟡 In Development
+### In Development
 
 - **PC — Personal Assistant** — Personal assistant developed in Python, designed to integrate useful tools and automation.
-- **Atelier Beauty** — Website developed using HTML and CSS for a real beauty salon.
 ## Currently Learning
 
 - Python development
